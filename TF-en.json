@@ -6,6 +6,12 @@
         "bottonMicrosoft": "Enter with Microsoft",
         "bottonGoogle": "Enter with google",
         "bottonLinkedin": "Enter with linkedin",
-        "linkNotCantEnter":"Can't enter?"
+        "bottonEnter":"Enter",
+        "bottonCancel":"Cancel",
+        "linkNotCantEnter":"Can't enter?",
+        "placeHolderUserName":"E-mail",
+        "placeHolderPassword":"Password",
+        
+        
     }
 }
