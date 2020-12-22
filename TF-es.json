@@ -1,0 +1,11 @@
+{
+    "login":
+    {
+        "title": "Ingrese a su cuenta",
+        "bottonContinue": "Continuar",
+        "bottonMicrosoft": "Ingresar con Microsoft",
+        "bottonGoogle": "Ingresar con Google",
+        "bottonLinkedin": "Ingresar con Linkedin",
+        "linkNotCantEnter":"Can't enter?"
+    }
+}
