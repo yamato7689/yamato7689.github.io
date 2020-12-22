@@ -1,11 +1,11 @@
 {
     "login":
-    [{
+    {
         "title": "Login to your account",
-        "botton-continue": "Continue",
-        "botton-microsoft": "Enter with Microsoft",
-        "botton-google": "Enter with google",
-        "botton-linkedin": "Enter with linkedin",
-        "link-not-cant-enter":"Can't enter?"
-    }]
+        "bottonContinue": "Continue",
+        "bottonMicrosoft": "Enter with Microsoft",
+        "bottonGoogle": "Enter with google",
+        "bottonLinkedin": "Enter with linkedin",
+        "linkNotCantEnter":"Can't enter?"
+    }
 }
