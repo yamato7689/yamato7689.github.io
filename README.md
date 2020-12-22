@@ -1,0 +1,1 @@
+# yamato7689.github.io
