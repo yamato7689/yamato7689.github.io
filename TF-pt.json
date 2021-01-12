@@ -2,6 +2,7 @@
     "login":
     {
         "title": "Faça login na sua conta",
+        "titleGuestUser":"Login de usuários não registrados",
         "bottonContinue": "Continuar",
         "bottonMicrosoft": "Entrar com a Microsoft",
         "bottonGoogle": "Entrar com a Google",
