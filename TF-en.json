@@ -3,6 +3,8 @@
     {
         "title": "Login to your account",
         "titleGuestUser":"Unregistered users login",
+        "titleRagainAccess":"Regain Access",
+        "titleDescriptionRadioRegainAccess":"Select an option to regain access to your account:",
         "bottonContinue": "Continue",
         "bottonMicrosoft": "Enter with Microsoft",
         "bottonGoogle": "Enter with google",
@@ -12,7 +14,9 @@
         "linkNotCantEnter":"Can't enter?",
         "placeHolderUserName":"E-mail",
         "placeHolderPassword":"Password",
-        "linkGuestUser":"Login as unregistered user"
+        "linkGuestUser":"Login as unregistered user",
+        "radioEmail":"Send mail to",
+        "radioSMS":"Send SMS to",
         
         
     }
