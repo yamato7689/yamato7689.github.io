@@ -5,6 +5,8 @@
         "titleGuestUser":"Login de usuários não registrados",
         "titleRagainAccess":"Recuperar o acesso",
         "titleDescriptionRadioRegainAccess":"Selecione uma opção para recuperar o acesso à sua conta:",
+        "titleDescriptionInputEmailCode":"Digite o código enviado para o correio",
+        "titleDescriptionInputSMSCode":"Digite o código enviado ao telefone",
         "bottonContinue": "Continuar",
         "bottonMicrosoft": "Entrar com a Microsoft",
         "bottonGoogle": "Entrar com a Google",
@@ -14,6 +16,7 @@
         "linkNotCantEnter":"Não posso ingressar?",
         "placeHolderUserName":"Não posso ingressar?",
         "placeHolderPassword":"senha",
+        "placeHolderVerificationCode":"Coloque o código",
         "linkGuestUser":"faça login como usuário não registrado",
         "radioEmail":"Enviar e-mail para",
         "radioSMS":"Enviar SMS para"
