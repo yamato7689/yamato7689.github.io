@@ -16,8 +16,6 @@
         "placeHolderPassword":"Contraseña",
         "linkGuestUser":"Ingresar como usuario no registrado",
         "radioEmail":"Enviar correo a ",
-        "radioSMS":"Enviar SMS a",
-        
-        
+        "radioSMS":"Enviar SMS a"
     }
 }
