@@ -16,8 +16,6 @@
         "placeHolderPassword":"Password",
         "linkGuestUser":"Login as unregistered user",
         "radioEmail":"Send mail to",
-        "radioSMS":"Send SMS to",
-        
-        
+        "radioSMS":"Send SMS to"
     }
 }
