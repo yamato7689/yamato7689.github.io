@@ -1,0 +1,16 @@
+{
+    "login":
+    {
+        "title": "Faça login na sua conta",
+        "bottonContinue": "Continuar",
+        "bottonMicrosoft": "Entrar com a Microsoft",
+        "bottonGoogle": "Entrar com a Google",
+        "bottonLinkedin": "Entrar com a Linkedin",
+        "bottonEnter":"Enterokay",
+        "bottonCancel":"Cancelar",
+        "linkNotCantEnter":"Não posso ingressar?",
+        "placeHolderUserName":"Não posso ingressar?",
+        "placeHolderPassword":"senha"
+        
+    }
+}
