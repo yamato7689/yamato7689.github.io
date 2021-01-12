@@ -3,6 +3,8 @@
     {
         "title": "Ingrese a su cuenta",
         "titleGuestUser":"Ingreso usuarios no registrados",
+        "titleRagainAccess":"Recuperar acceso",
+        "titleDescriptionRadioRegainAccess":"Seleccione una opción para recuperar el acceso a su cuenta:",
         "bottonContinue": "Continuar",
         "bottonMicrosoft": "Ingresar con Microsoft",
         "bottonGoogle": "Ingresar con Google",
@@ -12,7 +14,10 @@
         "linkNotCantEnter":"No puedo ingresar?",
         "placeHolderUserName":"Correo Electrónico",
         "placeHolderPassword":"Contraseña",
-        "linkGuestUser":"Ingresar como usuario no registrado"
+        "linkGuestUser":"Ingresar como usuario no registrado",
+        "radioEmail":"Enviar correo a ",
+        "radioSMS":"Enviar SMS a",
+        
         
     }
 }
