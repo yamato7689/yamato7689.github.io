@@ -10,7 +10,8 @@
         "bottonCancel":"Cancelar",
         "linkNotCantEnter":"No puedo ingresar?",
         "placeHolderUserName":"Correo Electrónico",
-        "placeHolderPassword":"Contraseña"
+        "placeHolderPassword":"Contraseña",
+        "linkGuestUser":"Ingresar como usuario no registrado"
         
     }
 }
