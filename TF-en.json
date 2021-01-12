@@ -5,6 +5,8 @@
         "titleGuestUser":"Unregistered users login",
         "titleRagainAccess":"Regain Access",
         "titleDescriptionRadioRegainAccess":"Select an option to regain access to your account:",
+         "titleDescriptionInputEmailCode":"Enter the code sent to the mail",
+        "titleDescriptionInputSMSCode":"Enter the code sent to the phone",
         "bottonContinue": "Continue",
         "bottonMicrosoft": "Enter with Microsoft",
         "bottonGoogle": "Enter with google",
@@ -14,6 +16,7 @@
         "linkNotCantEnter":"Can't enter?",
         "placeHolderUserName":"E-mail",
         "placeHolderPassword":"Password",
+        "placeHolderVerificationCode":"Enter code",
         "linkGuestUser":"Login as unregistered user",
         "radioEmail":"Send mail to",
         "radioSMS":"Send SMS to"
