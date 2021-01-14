@@ -19,6 +19,7 @@
         "placeHolderVerificationCode":"Coloque o código",
         "linkGuestUser":"faça login como usuário não registrado",
         "radioEmail":"Enviar e-mail para",
-        "radioSMS":"Enviar SMS para"
+        "radioSMS":"Enviar SMS para",
+        "alertLogin":"nome de usuário ou senha inválidos"
     }
 }
