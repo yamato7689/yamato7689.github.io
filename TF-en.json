@@ -20,6 +20,8 @@
         "linkGuestUser":"Login as unregistered user",
         "radioEmail":"Send mail to",
         "radioSMS":"Send SMS to",
-        "alertLogin":"invalid username or password"
+        "alertLogin":"invalid username or password",
+        "titleNewPassword":"Enter new password",
+        "titleNewPasswordRepeat":"Confirm new password"
     }
 }
