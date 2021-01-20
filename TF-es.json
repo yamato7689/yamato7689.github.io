@@ -20,6 +20,8 @@
         "linkGuestUser":"Ingresar como usuario no registrado",
         "radioEmail":"Enviar correo a ",
         "radioSMS":"Enviar SMS a",
-        "alertLogin":"Usuario o contraseña invalido"
+        "alertLogin":"Usuario o contraseña invalido",
+        "titleNewPassword":"Ingrese nueva contraseña",
+        "titleNewPasswordRepeat":"Confirmar nueva contraseña"
     }
 }
