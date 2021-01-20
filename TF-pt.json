@@ -21,7 +21,7 @@
         "radioEmail":"Enviar e-mail para",
         "radioSMS":"Enviar SMS para",
         "alertLogin":"nome de usuário ou senha inválidos",
-        "titleNewPassword":"Insira a nova senha"
+        "titleNewPassword":"Insira a nova senha",
         "titleNewPasswordRepeat":"Confirme a nova senha"
         
     }
